@@ -15,7 +15,7 @@ The system is designed as a **foundation for a future IoT device**, which will l
 * MQ2 Gas Sensor
 * MQ135 Air Quality Sensor
 * 2x Active Buzzer
-* NPN Transistor (e.g. BC547 / 2N2222)
+* NPN Transistor (2N2222)
 * 1kΩ Resistor (transistor base)
 * 220Ω Resistor (LED)
 * Red LED
