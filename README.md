@@ -68,7 +68,7 @@ The system was tested in different conditions:
 ## 🎥 Demo
 
 📌 A video demonstration of the alarm system will be uploaded here:
-➡️ *(Add your video link here)*
+➡️ *(Link will be coming soon!)*
 
 ---
 
