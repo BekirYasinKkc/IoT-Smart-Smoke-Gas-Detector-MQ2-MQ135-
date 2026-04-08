@@ -85,9 +85,9 @@ void loop() {
   // ===== ALARM VE UYARI =====
   if (mq2Dig == HIGH || mq135Dig == HIGH) {
     alarmMode();
-  } else if (diffMQ2 > 200 || diffMQ135 > 180) {
+  } else if (diffMQ2 > 220 || diffMQ135 > 180) {
     alarmMode();
-  } else if (diffMQ2 > 120 || diffMQ135 > 100) {
+  } else if (diffMQ2 > 140 || diffMQ135 > 100) {
     warningMode();
   } else {
     normalMode();
