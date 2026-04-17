@@ -70,7 +70,7 @@ The system was tested in different conditions:
 ## 📷 Current Build
 
 <p align="center">
-  <img src="images/projekt.jpg" width="500">
+  <img src="images/projektAlp.jpg" width="500">
 </p>
 
 ---
