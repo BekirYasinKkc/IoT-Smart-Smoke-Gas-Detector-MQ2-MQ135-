@@ -20,6 +20,8 @@ The system is designed as a **foundation for a future IoT device**, which will l
 * 220Ω Resistor (LED)
 * Red LED
 * Push Button (Test Button)
+* 470µF Capacitor (25V)
+* 100nF Ceramic Capacitor
 * Breadboard & Jumper Wires
 
 ---
@@ -60,8 +62,16 @@ The system was tested in different conditions:
 📊 Observations:
 
 * Sensors react **quickly to gas increase**
-* Recovery (value drop) is **slower**, which is normal
-* Different environments require **dynamic baseline calibration**
+* Recovery (value drop) is slower, which is normal
+* Different environments require dynamic baseline calibration
+
+---
+
+## 📷 Current Build
+
+<p align="center">
+  <img src="images/projekt.jpg" width="500">
+</p>
 
 ---
 
