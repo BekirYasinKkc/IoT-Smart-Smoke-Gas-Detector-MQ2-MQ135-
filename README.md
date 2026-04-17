@@ -21,7 +21,8 @@ The system is designed as a **foundation for a future IoT device**, which will l
 * Red LED
 * Push Button (Test Button)
 * 470µF Capacitor (25V)
-* 100nF Ceramic Capacitor
+* 22µF Capacitor (50V)
+* 2x 100nF Ceramic Capacitor
 * Breadboard & Jumper Wires
 
 ---
